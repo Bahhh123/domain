@@ -2,7 +2,7 @@
 
 ////////////////=============[Made with ❤️ by AndryMata]===============////////////////
 
-///https://api.telegram.org/bot2093874394:AAFctoN4ufziH828bok9uDLMbDmP099Kd68/setWebhook?url=https://idongoxxyznxx.me/
+///https://api.telegram.org/bot2093874394:AAFctoN4ufziH828bok9uDLMbDmP099Kd68/setWebhook?url=https://tabahstore.online/
 
 $botToken = "2001265692:AAE7qTjPiFuhzrqtE4hSZd4zKaj4vFl3dOk"; // Enter ur bot token
 $website = "https://api.telegram.org/bot".$botToken;
