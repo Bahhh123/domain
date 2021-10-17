@@ -2,9 +2,9 @@
 
 ////////////////=============[Made with ❤️ by AndryMata]===============////////////////
 
-///https://api.telegram.org/bot2093874394:AAFctoN4ufziH828bok9uDLMbDmP099Kd68/setWebhook?url=https://tabahstore.online/
+///https://api.telegram.org/bot2099682455:AAGRmea8VpE-YDZYKu2YP8pLPIAoedwLkrg/setWebhook?url=https://asubot123.herokuapp.com/
 
-$botToken = "2001265692:AAE7qTjPiFuhzrqtE4hSZd4zKaj4vFl3dOk"; // Enter ur bot token
+$botToken = "2099682455:AAGRmea8VpE-YDZYKu2YP8pLPIAoedwLkrg"; // Enter ur bot token
 $website = "https://api.telegram.org/bot".$botToken;
 error_reporting(0);
 $update = file_get_contents('php://input');
