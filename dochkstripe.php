@@ -2,7 +2,7 @@
 
 ////////////////=============[Made with ❤️ by AndryMata]===============////////////////
 
-///https://api.telegram.org/bot2001265692:AAE7qTjPiFuhzrqtE4hSZd4zKaj4vFl3dOk/setWebhook?url=https://idongoxxyznxx.me/
+///https://api.telegram.org/bot2093874394:AAFctoN4ufziH828bok9uDLMbDmP099Kd68/setWebhook?url=https://idongoxxyznxx.me/
 
 $botToken = "2001265692:AAE7qTjPiFuhzrqtE4hSZd4zKaj4vFl3dOk"; // Enter ur bot token
 $website = "https://api.telegram.org/bot".$botToken;
@@ -225,11 +225,11 @@ $postcode = $matches1[1][0];
 ////////////////////////////===[Proxys]===//////////////
 
 $rp1 = array(
-  1 => 'user-rotate:pass',
-  2 => 'user-rotate:pass',
-  3 => 'user-rotate:pass',
-  4 => 'user-rotate:pass',
-  5 => 'user-rotate:pass',
+  1 => 'tuzjanth:tuzjanth',
+  2 => 'tuzjanth:tuzjanth',
+  3 => 'tuzjanth:tuzjanth',
+  4 => 'tuzjanth:tuzjanth',
+  5 => 'tuzjanth:tuzjanth',
     ); 
     $rpt = array_rand($rp1);
     $rotate = $rp1[$rpt];
