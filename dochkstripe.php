@@ -2,9 +2,9 @@
 
 ////////////////=============[Made with ❤️ by AndryMata]===============////////////////
 
-///https://api.telegram.org/bot2099682455:AAGRmea8VpE-YDZYKu2YP8pLPIAoedwLkrg/setWebhook?url=https://asubot123.herokuapp.com/
+///https://api.telegram.org/bot2093505155:AAEAkPYZoZjoVg8tT4w0Gy_LhxrLymUR9G8/setWebhook?url=https://asubot123.herokuapp.com/
 
-$botToken = "2099682455:AAGRmea8VpE-YDZYKu2YP8pLPIAoedwLkrg"; // Enter ur bot token
+$botToken = "2093505155:AAEAkPYZoZjoVg8tT4w0Gy_LhxrLymUR9G8"; // Enter ur bot token
 $website = "https://api.telegram.org/bot".$botToken;
 error_reporting(0);
 $update = file_get_contents('php://input');
@@ -225,11 +225,11 @@ $postcode = $matches1[1][0];
 ////////////////////////////===[Proxys]===//////////////
 
 $rp1 = array(
-  1 => 'tuzjanth:tuzjanth',
-  2 => 'tuzjanth:tuzjanth',
-  3 => 'tuzjanth:tuzjanth',
-  4 => 'tuzjanth:tuzjanth',
-  5 => 'tuzjanth:tuzjanth',
+  1 => 'tuzjanth:ny084dvesqrk',
+  2 => 'tuzjanth:ny084dvesqrk',
+  3 => 'tuzjanth:ny084dvesqrk',
+  4 => 'tuzjanth:ny084dvesqrk',
+  5 => 'tuzjanth:ny084dvesqrk',
     ); 
     $rpt = array_rand($rp1);
     $rotate = $rp1[$rpt];
